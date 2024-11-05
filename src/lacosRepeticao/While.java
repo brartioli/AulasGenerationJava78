@@ -27,7 +27,7 @@ public class While {
             System.out.println("\n++++++++++++++++MENU++++++++++++++++++");
     		System.out.print("\nDeseja continuar a usar nossa calculadora de soma? (s/n): ");
     		continua = scanner.next().equalsIgnoreCase("s");
-    		System.out.println("++++++++++++++++++++++++++++++++++");
+    		
 		}
 		
 
